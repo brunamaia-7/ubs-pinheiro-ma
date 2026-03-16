@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.099001,-2.534273,0]},"properties":{"name":"UBS Kiola Sarney","styleUrl":"#m_ylw-pushpin0","icon-offset":[0.5,0],"icon-offset-units":["fraction","fraction"],"icon":"http://maps.google.com/mapfiles/kml/shapes/hospitals.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.096876000984,-2.526786999321433,0]},"properties":{"name":"UBS São José","styleUrl":"#m_ylw-pushpin00","icon-offset":[0.5,0],"icon-offset-units":["fraction","fraction"],"icon":"http://maps.google.com/mapfiles/kml/shapes/hospitals.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.146545,-2.551517,0]},"properties":{"name":"UBS Pacas","styleUrl":"#m_ylw-pushpin0","icon-offset":[0.5,0],"icon-offset-units":["fraction","fraction"],"icon":"http://maps.google.com/mapfiles/kml/shapes/hospitals.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.13446519948619,-2.693829899924487,0]},"properties":{"name":"UBS Cocos","styleUrl":"#m_ylw-pushpin00","icon-offset":[0.5,0],"icon-offset-units":["fraction","fraction"],"icon":"http://maps.google.com/mapfiles/kml/shapes/hospitals.png"}}
+]}
